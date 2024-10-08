@@ -41,6 +41,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/6b93a2e4-3524-4316-aea5-7c6e64eeb973)
 
 
 ## Program 2: Parameterized Constructor
@@ -67,6 +68,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/234066c4-c6da-40a5-b706-e7319c168f99)
 
 
 ## Program 3: Copy Constructor
@@ -102,6 +104,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/42713091-fd7d-4386-b5e9-d2f8982ee6ef)
 
 
 ## Program 4: Default Arguments
@@ -135,6 +138,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/3193f97f-3de1-4c5d-8481-2246e89aab2f)
 
 
 ## Program 5: Area Calculation of Rectangle
@@ -173,6 +177,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/706643cb-6a22-4810-845d-473082627bb6)
 
 
 ## Program 6: Destructor
@@ -203,6 +208,7 @@ int main() {
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/ea0e69af-a320-4fa8-b2d1-dcd960b2e169)
 
 
 ## Conclusion:
